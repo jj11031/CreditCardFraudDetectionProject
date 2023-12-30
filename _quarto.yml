@@ -1,0 +1,7 @@
+project:
+  title: "Credit Card Fraud Detection"
+execute:
+  freeze: true
+
+
+
